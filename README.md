@@ -56,7 +56,7 @@ I love to experiment with new ideas—here are some highlights from my repositor
 
 * Qualified **GATE 2022** and topped the first year of B.Tech.
 * Published a research article on *Extraction of River Network from Satellite Image*.
-* **Microsoft GenAI Hackathon** winner and completed courses on NLP with Python, Advanced Learning Algorithms and Supervised Machine Learning.
+* **Microsoft GenAI Hackathon** Finalist.
 
 ## 📫 Get in Touch
 
